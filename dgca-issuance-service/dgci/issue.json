@@ -1,0 +1,10 @@
+{
+  "id": 123,
+  "dgci": "urn:uvci:01:",
+  "kid": "test",
+  "algId": 123,
+  "countryCode": "CH",
+  "expired": 0,
+  "expiredDuration": 0
+}
+
